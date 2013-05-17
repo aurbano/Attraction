@@ -9,6 +9,11 @@ You can tap anywhere to create a new attraction point (white  circles) that slow
 See a little demo of the program in action:
 http://www.youtube.com/watch?v=QphvHa4SUNY
 
-Meta
-=====
+###Source
+
+The LUA source code can be found in the Attraction.codea folder: [Attraction.codea/Main.lua](https://github.com/aurbano/Attraction/blob/master/Attraction.codea/Main.lua)
+
+
+###Meta
+
 Develped by [Alejandro U. Alvarez](http://urbanoalvarez.es)
