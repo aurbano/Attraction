@@ -1,5 +1,4 @@
-Attraction
-==========
+![Attraction](https://raw.github.com/aurbano/Attraction/master/Attraction/Resources/thumb.png)
 
 > A little iOS visual application created with Codea (iPad app)
 
