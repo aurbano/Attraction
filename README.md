@@ -16,3 +16,5 @@ The LUA source code can be found in the Attraction.codea folder: [Attraction.cod
 ###Meta
 
 Develped by [Alejandro U. Alvarez](http://urbanoalvarez.es)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/Attraction/readme)](https://github.com/aurbano)
